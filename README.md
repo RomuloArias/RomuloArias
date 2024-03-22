@@ -1,6 +1,6 @@
 ### Hi, I'm Romulo 👋
 
-<p>I am a Web Developer, living in London.</p>
+<p>I am a Full-Stack Developer, living in London.</p>
 
 - 🌱 I’m currently working to improve my skills on React, Ruby on Rails, CSS and JavaScript.
 
@@ -22,7 +22,7 @@
 const RomuloArias = {
   availableForHire: true,
   education: "Le Wagon London, a 9-week full-time intensive coding bootcamp",
-  otherAlias: "Junior Full Stack Developer",
+  otherAlias: "Aspiring Full Stack Developer",
   codesIn: ["HTML", "CSS", "Ruby on Rails"],
   currentlylearning: ["React", "JavaScript ES6", "SQL"],
   toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"],
