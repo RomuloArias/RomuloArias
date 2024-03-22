@@ -1,6 +1,6 @@
 ### Hi, I'm Romulo 👋
 
-<p>I am a Full-Stack Developer, living in London.</p>
+<p>I am a Full Stack Developer, living in London.</p>
 
 - 🌱 I’m currently working to improve my skills on React, Ruby on Rails, CSS and JavaScript.
 
